@@ -1,7 +1,7 @@
 ---
-title: Will AI remove the frictions in customer support?
+title: Will AI Agents Remove Friction in Customer Support?
 date: 2024-06-04T17:45:00.000Z
-description: User-side chat agent, AI customer support
+description: AI agent, AI customer support
 ---
 In the article "Why I Need My Own Chatbot to Deal With Customer-Service Chatbots", Alexandra Samuel discusses the need for a personal chatbot to handle interactions with often-annoying customer-service chatbots. 
 
