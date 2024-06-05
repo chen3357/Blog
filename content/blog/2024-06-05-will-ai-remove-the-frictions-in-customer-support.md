@@ -9,13 +9,12 @@ There're  several useful functionalities for the consumer-side chatbot, includin
 
 Source: www.wsj.com/tech/ai/customer-service-chatbot-dae1825b
 
-
-
 ## **Test**
 
 ![](/img/user-side-chatbot.png)
 
-## \
+
+
 **Q1:- Question: What is one of the main reasons the author wants a personal chatbot?**
 
 \- A) To avoid using the internet
@@ -32,8 +31,6 @@ Correct Answer:
 
 \- Explanation: The author emphasizes the need for a personal chatbot to handle repetitive and annoying tasks, thereby saving time and reducing frustration.
 
-
-
 **Q2:: Which feature of the consumer chatbot involves searching online forums for similar issues and solutions?**
 
 \- A) Memorize my identity and preferences
@@ -45,8 +42,6 @@ Correct Answer:
 \- D) Wait in line
 
 Correct Answer:  C) Trawl for similar complaints.  The author describes how the chatbot could search online forums like Reddit to find similar complaints and provide negotiation tips.
-
-
 
 **Q3:: How does the author suggest the chatbot should handle waiting in line for customer support?**
 
